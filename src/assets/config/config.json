@@ -1,5 +1,5 @@
 {
-  "apiEndpoint": "wss://smartbch-wss.greyh.at",
+  "apiEndpoint": "ws://194.233.92.0:8546",
   "apiType": "web3",
   "apiVersion": "v1"
 }
