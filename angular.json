@@ -135,6 +135,9 @@
               "devServerTarget": "smart-bch-explorer:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@zeit/ng-deploy:deploy"
         }
       }
     }
