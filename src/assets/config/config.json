@@ -1,5 +1,5 @@
 {
-  "apiEndpoint": "ws://194.233.92.0:8546",
+  "apiEndpoint": "https://testnet.fomochain.us",
   "apiType": "web3",
   "apiVersion": "v1"
 }

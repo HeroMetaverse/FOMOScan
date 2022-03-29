@@ -1,12 +1,12 @@
 [
   {
-  "apiEndpoint": "ws://194.233.92.0:8546",
+  "apiEndpoint": "https://testnet.fomochain.us",
   "apiType": "web3",
   "apiVersion": "v1",
   "network": "TestNet"
 },
 {
-    "apiEndpoint": "http://194.233.92.0:8545",
+    "apiEndpoint": "https://testnet.fomochain.us",
     "apiType": "web3",
     "apiVersion": "v1",
     "network": "TestNet"
